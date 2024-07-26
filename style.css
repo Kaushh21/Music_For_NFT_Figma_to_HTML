@@ -1,0 +1,477 @@
+html,
+body {
+    overflow-x: hidden;
+    background-image: url('Images/Gradient\ color.png');
+    margin: 0;
+    background-repeat: no-repeat;
+    padding: 0;
+    background-color: #0A0A0A !important;
+
+    font-family: Inter;
+    color: white;
+}
+
+.navbar {
+    font-family: Inter;
+    background-color: transparent !important;
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid white;
+    padding-right: 8% !important;
+    padding-left: 8% !important;
+}
+
+.con1 {
+    color: white;
+    margin-top: 5%;
+}
+
+.con1 h1 {
+    font-family: Inter;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 96.82px;
+    text-align: left;
+    width: 800px;
+    margin-top: 18%;
+}
+
+.f1 {
+    margin-top: 8%;
+}
+
+.f2 {
+    margin-top: 13%;
+}
+
+.image1 {
+    margin-top: -15%;
+    width: 100%;
+}
+
+.con1 h2 {
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 77.45px;
+    text-align: left;
+}
+
+.con1 p {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 25.6px;
+    text-align: left;
+}
+
+@media (max-width: 767.98px) {
+    .image1 {
+        margin-top: 21%;
+        width: 100%;
+    }
+
+    .con1 h1 {
+        width: auto;
+    }
+
+    .c4 {
+        margin-top: 21% !important;
+    }
+
+    .card1 {
+        margin: 13%;
+    }
+
+    .con3 h1 {
+        font-size: 60px;
+    }
+
+    .image2 {
+        margin-top: -69%;
+        width: 93%;
+    }
+
+    .image3 {
+        width: 84% !important;
+        margin-left: 10% !important;
+        margin-top: 17% !important;
+    }
+
+    .buttons {
+        margin-top: 10% !important;
+    }
+
+    .sep {
+        border-right: none !important;
+        padding-left: 5%;
+    }
+
+    .con3 h1 {
+        font-size: 60px !important;
+    }
+
+    .op1 {
+        margin-top: 30%;
+        margin-left: 7%;
+    }
+
+    .button2 {
+        margin-top: 7%;
+    }
+
+    .heading h1 {
+        line-height: 87.67px !important;
+    }
+
+    .musicb {
+        margin-top: 6%;
+    }
+
+    .mr-3 {
+        margin-bottom: 9%;
+    }
+    .navbar{
+        padding-left: 0% !important;
+        padding-right: 0% !important;
+    }
+    .con2 h1 {
+        font-size: 54px !important;
+    }
+}
+
+.button1 {
+    font-family: Inter;
+    display: inline-block;
+    height: 45px;
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+.button1:hover,
+.button4:hover,
+.button5:hover {
+    background: linear-gradient(99.74deg, #06DBAC 5.23%, #BD00FF 92.7%);
+}
+
+.flex img {
+    height: 100%;
+}
+
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: padding-box;
+    box-sizing: padding-box;
+}
+
+.tickerwrapper {
+    position: relative;
+    top: 30px;
+    left: 0%;
+    border-top: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    background: transparent;
+    color: white;
+    width: 99.9%;
+    height: 47px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+ul.list {
+    font-family: Inter;
+    position: relative;
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin: 7px;
+}
+
+ul.list li {
+    float: left;
+    padding-left: 20px;
+}
+
+.con2 {
+    color: white;
+    margin-top: 10%;
+}
+
+.image2 {
+    margin-top: -68%;
+    width: 90%;
+}
+
+.image3 {
+    width: 84%;
+    margin-left: 18%;
+}
+
+.con2 h1 {
+    font-family: Inter;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 96.82px;
+    text-align: left;
+}
+
+.con2 p {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28.8px;
+    text-align: left;
+}
+
+.con3 {
+    color: white;
+    margin-top: 7%;
+}
+
+.con3 h1 {
+    font-family: Inter;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 96.82px;
+    text-align: left;
+}
+
+.con3 h2 {
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 96px;
+    text-align: left;
+}
+
+.con3 p {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28.8px;
+    text-align: left;
+}
+
+.card1 {
+    width: 200px;
+    height: 250px;
+    border: 1px solid #FFFFFF !important;
+    background-color: transparent !important;
+    color: white !important;
+}
+
+.c1 {
+    margin-top: -16% !important;
+}
+
+.image4 {
+    width: 193px;
+    height: 194px;
+    margin-top: -10%;
+    margin-left: 13%;
+
+}
+
+.c2 {
+    margin-top: 21% !important;
+    margin-left: 12% !important;
+}
+
+.title {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+    text-align: left;
+}
+
+.musicb {
+    font-family: Inter;
+    width: Hug (78px)px;
+    height: Hug (39px)px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 50px;
+    border: 1px solid #A3A3A3;
+    background-color: transparent;
+    color: white;
+}
+
+.musicb:hover {
+    background: #FFFFFF;
+    color: #09AF55;
+}
+
+.mr-3 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.2px;
+    text-align: left;
+}
+
+.op1 {
+    margin-top: 30%;
+}
+
+.button2 {
+    padding: 8px;
+    height: 40px;
+    width: 85%;
+    text-align: center;
+    border-radius: 54.7px;
+    border: 1px solid white;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 300;
+    background-color: transparent;
+    color: white;
+}
+
+.button2:hover {
+    font-weight: 700;
+    color: white;
+    background: linear-gradient(99.74deg, #06DBAC 5.23%, #BD00FF 92.7%);
+
+}
+
+.card2 {
+    width: 80%;
+    height: 489px;
+    border: 1px solid #FFFFFF !important;
+    background-color: transparent !important;
+    color: white !important;
+}
+
+.imagec {
+    width: 193px;
+    height: 194px;
+    margin-top: -10%;
+    margin-left: 13%;
+}
+
+.button4 {
+    width: Hug (315px)px;
+    height: Hug (49px)px;
+    padding: 10px 32px 10px 32px;
+    gap: 10px;
+    border-radius: 50px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    background-color: transparent;
+}
+
+.heading h1 {
+    font-family: Inter;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 55.67px;
+    text-align: left;
+    color: white;
+}
+
+.sep {
+    padding-right: 5%;
+    border-right: 1px solid #FFFFFF;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 38.73px;
+    text-align: left;
+
+}
+
+.sep1 {
+    padding-left: 5%;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 38.73px;
+    text-align: left;
+}
+
+a[href="index.html"] {
+    text-decoration: none;
+    color: white;
+}
+
+.back {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 38.73px;
+    text-align: left;
+}
+
+.foot h6 {
+    margin-right: 30px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.marg {
+    margin-left: 20%;
+}
+
+body a {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+body a:hover {
+    color: rgb(182, 177, 177);
+    transition-duration: 0.3s;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+    transition-duration: 0.3s;
+    color: rgb(182, 177, 177) !important;
+}
+
+@media only screen and (max-width: 768px) {
+    .d-md-flex {
+        display: block !important;
+        /* Reset to default block display on tablet screens */
+    }
+
+    .image1 {
+        margin-top: 53% !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+
+    .image1 {
+        margin-top: -2% !important;
+    }
+}
+
+.button5 {
+    padding: 10px 32px 10px 32px;
+    gap: 10px;
+    border-radius: 50px;
+    border: 1px solid #FFFFFF;
+    color: white;
+    background-color: transparent;
+    font-family: Inter;
+    margin-top: 5%;
+}
+
+.card{
+    --bs-card-border-radius: 0px !important;
+}
+
+.navbar-brand{
+    font-size: 18px !important;
+}
